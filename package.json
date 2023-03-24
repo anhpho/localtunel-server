@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "author": "Roman Shtylman <shtylman@gmail.com>",
   "name": "localtunnel-server",
   "description": "expose localhost to the world",
